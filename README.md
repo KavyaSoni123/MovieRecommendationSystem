@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 ## Overview
-This project is a **Movie Recommendation System** built using **Streamlit**. It allows users to receive movie recommendations based on their favorite movie, using a precomputed similarity matrix and **content-based filtering**.
+This project is a **Movie Recommendation System** built using  **content-based filtering** and frontend created using **Streamlit**. It allows users to receive movie recommendations based on their favorite movie, using a precomputed similarity matrix.
 
 ## Features
 - Interactive Streamlit interface.
